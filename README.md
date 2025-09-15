@@ -40,7 +40,7 @@ Repositorio de Fundamentos de Algoritmos donde se trabajará algoritmos en el Le
 
 ## Comandos de Información
 
-- git diff → Ver cambios no confirmados
+- git diff → Ver Cambios no confirmados
 - git diff --staged → Ver cambios en staging
 - git show → Ver último commit
 - git branch → Ver ramas locales
