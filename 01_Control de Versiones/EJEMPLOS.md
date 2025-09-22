@@ -68,5 +68,3 @@
 3. Subir cambios a la rama remota.
 4. Revisar el código antes de fusionar con main.
 5. Resolver posibles conflictos antes de integrar cambios.
-
-# Arreglos
