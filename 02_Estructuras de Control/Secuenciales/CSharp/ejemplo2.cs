@@ -10,12 +10,15 @@ namespace ejemplo2
     {
         static void Main(string[] args)
         {
-            // Entrada de datos
-
+            /* Hallar el promedio ponderado, si nota 1(20%), nota 2(30%), nota 3(40%) y nota 4(10%).
+             */
+            
             Console.ForegroundColor = ConsoleColor.Cyan;
             Console.WriteLine("=== Cálculo de Promedio Ponderado ===");
             Console.ResetColor();
             Console.WriteLine();
+
+            // Entrada de datos
 
             Console.Write("Ingrese la Nota 1 (20%): ");
             double nota1 = double.Parse(Console.ReadLine());
