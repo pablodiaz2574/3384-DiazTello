@@ -77,12 +77,12 @@
 
 La siguiente imagen muestra un historial de commits.
 
-(![Historial de Commits del este proyecto](image.png))
+(![Historial de Commits del este proyecto](image-1.png))
 
 2. Logs:
 
 La siguiente captura de la terminal muestra el historial detallado de los commits del proyecto.
 
-![Historial de Commits usando git log](image-1.png)
+![Historial de Commits usando git log](image-2.png)
 
 ---
