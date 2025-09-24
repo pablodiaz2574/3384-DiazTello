@@ -1,5 +1,7 @@
 # Trabajo Colaborativo con GIT
 
+---
+
 ## ¿Por qué usar control de versiones en colaboración?
 
 - Evita sobrescribir los cambios de otras personas.
@@ -68,3 +70,19 @@
 3. Subir cambios a la rama remota.
 4. Revisar el código antes de fusionar con main.
 5. Resolver posibles conflictos antes de integrar cambios.
+
+## Capturas de commits, logs o flujo de ramas:
+
+1. Commits:
+
+La siguiente imagen muestra un historial de commits.
+
+(![Historial de Commits del este proyecto](image.png))
+
+2. Logs:
+
+La siguiente captura de la terminal muestra el historial detallado de los commits del proyecto.
+
+![Historial de Commits usando git log](image-1.png)
+
+---

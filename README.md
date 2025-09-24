@@ -17,7 +17,7 @@ Este repositorio contiene ejercicios y ejemplos de algoritmos, desarrollados pri
 
 - **Autor:** Pablo Díaz Tello.
 - **Nombre:** 3384-DiazTello
-- **Inicialización:** repositorio local en Git Bash → migración a GitHub.
+- **Inicialización:** Repositorio local en Git Bash → Migración a GitHub.
 
 ---
 
@@ -33,3 +33,5 @@ Este repositorio contiene ejercicios y ejemplos de algoritmos, desarrollados pri
 © 2025 Pablo Diaz. Todos los derechos reservados.
 
 **Contacto:** N00483823@upn.pe
+
+---
