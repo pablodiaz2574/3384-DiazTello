@@ -63,6 +63,8 @@ namespace Ejemplo1Anidado
                 Console.ForegroundColor = ConsoleColor.Red;
             }
 
+            // Salida de resultados
+
             Console.WriteLine();
             Console.WriteLine($"Resultados:");
             Console.WriteLine($"Total de preguntas: {totalpreguntas}");
