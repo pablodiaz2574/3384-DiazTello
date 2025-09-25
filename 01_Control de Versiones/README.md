@@ -20,7 +20,7 @@ Uso de herramientas de versionamiento de software
 - git add . → Agregar Todos los archivos.
 - git commit -m "Mensaje descriptivo" → Registra los cambios en el historial.
 - git log → Muestra los cambios realizados en el repositorio.
-- git log --oneline → Ver historial resumido.
+- git log --online → Ver historial resumido.
 
 ## Estructura de un Repositorio Git
 
